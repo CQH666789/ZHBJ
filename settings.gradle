@@ -1,0 +1,6 @@
+include ':SlidingMenu-master'
+include ':app'
+rootProject.name = "ZHBJ74"
+include ':xUtilsLibrary'
+include ':library'
+include ':sample'
